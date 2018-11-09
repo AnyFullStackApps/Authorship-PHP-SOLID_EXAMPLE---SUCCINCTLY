@@ -6,6 +6,8 @@
  * Time: 18:17
  */
 
+//Class should have single responsibility e.g not to keep data and validate email as below
+
 //WRONG
 class Employee{
     private $name;

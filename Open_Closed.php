@@ -6,6 +6,8 @@
  * Time: 18:33
  */
 
+//Open for extension and Close for modification
+
 //WRONG
 class Programmer{
     public function coding(){return 'coding';}
